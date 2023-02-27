@@ -67,7 +67,7 @@ header{
     background-color: #F0F0F0;
   }
 
-/* side-bar */
+
 
 .side-bar{
     position: fixed;
@@ -109,7 +109,7 @@ header{
     margin: 20px 0;
 }
 
-/* filter */
+
 
 .filters{
     position: fixed;
@@ -149,7 +149,6 @@ header{
     background: #242424;
 }
 
-/* video */
 
 .thumbnail1{
     background-color: white;
